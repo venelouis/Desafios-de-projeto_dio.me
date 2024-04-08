@@ -35,7 +35,8 @@ A implementação de ferramentas na empresa *[nome da empresa=] Abstergo Pharmac
 [lista de anexos, como manuais, documentos, planilhas, entre outros] <br>
 1: https://aws.amazon.com/pt/websites/?nc2=h_ql_sol_use_web <br>
 2: https://aws.amazon.com/pt/ec2/?nc2=h_ql_prod_fs_ec2 <br>
-3: https://aws.amazon.com/pt/dynamodb/?nc2=h_ql_prod_fs_ddb
+3: https://aws.amazon.com/pt/dynamodb/?nc2=h_ql_prod_fs_ddb <br>
+<br>
 
-Assinatura do Responsável pelo Projeto:
-[Nome do Responsável pelo Projeto=] @venelouis
+#### Assinatura do Responsável pelo Projeto: 
+@venelouis
