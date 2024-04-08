@@ -1,2 +1,2 @@
-# desafio-de-projeto_dio.me
-Redução dos Custos em Farmácias com AWS.
+# Desafios de projeto: dio.me
+- Redução dos Custos em Farmácias com AWS.
